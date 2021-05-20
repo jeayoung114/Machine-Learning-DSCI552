@@ -8,3 +8,5 @@
 5. NLP
 6. Timeseries Forecasting
 7. Final Project(Machine learning versus logistic regression methods on predicting pathological features for microsatellite instability in colorectal cancer)
+
+Final Project Web Demo : https://www.youtube.com/watch?v=lA391xfli48
